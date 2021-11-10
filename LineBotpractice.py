@@ -6,8 +6,8 @@ from linebot.models import  CarouselTemplate, CarouselColumn, ButtonsTemplate, P
 
 
 
-CHANNEL_ACCESS_TOKEN = "pE0p9oAbP3F+8eFEZrR7bNZM3z5SNrnExSPytHtDo84C1MoMqkObkFDEes06ZtqhEhwGPHng1rdwNF36MEqlHiX3Z863Cz9MvSbLi6zMtK0heTr+Bhq2Lc4Z9EV7CRk542Kuc6nv/Mr1kpz/w6tw5AdB04t89/1O/w1cDnyilFU="
-to = "Uadd2378521004fb34ef161153cb5d0a0"
+CHANNEL_ACCESS_TOKEN = "***********iX3Z863Cz9MvSbLi6zMtK0heTr+Bhq2Lc4Z9EV7CRk542Kuc6nv/Mr1kpz/w6tw5AdB04t89/1O/w1cDnyilFU="
+to = "*******4ef161153cb5d0a0"
 
 
 def get_room_member_ids(self, room_id, start=None, timeout=None):
